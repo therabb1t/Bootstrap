@@ -12,12 +12,11 @@
 
 5. Linhas e Colunas:
    
-`<header class="row">`
-
-            `<div class="col">A</div>
+       `<header class="row">
+            
+         <div class="col">A</div>
    
-            <div class="col">B</div>
+         <div class="col">B</div>
    
-            <div class="col">C</div>`
-   
-`</header>`
+         <div class="col">C</div>
+         </header>`
