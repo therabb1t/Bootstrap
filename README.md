@@ -14,6 +14,8 @@
 
          <div class= "[col / col-sm- / col-md- / col-lg- / col-xl-]"></div
 
+<img src="oito.png">
+
 6. Linhas e Colunas:
    
          <header class="row">
