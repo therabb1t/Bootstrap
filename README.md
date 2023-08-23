@@ -8,15 +8,16 @@
 
 3. Layout Grid System
 
-4. Containers
+4. Containers:
 
-5. Linhas e Colunas:
+- Grid sizes:
+
+         <div class= "[col / col-sm- / col-md- / col-lg- / col-xl-]"></div
+
+6. Linhas e Colunas:
    
-       `<header class="row">
-            
+         <header class="row">
          <div class="col">A</div>
-   
          <div class="col">B</div>
-   
          <div class="col">C</div>
-         </header>`
+         </header>
