@@ -4,7 +4,7 @@ src: url(pirata_one/PirataOne-Regular.ttf);
 }
 @font-face{
 font-family: 'empresa';
-src: url(gothic_war/Gothic War.otf);
+src: url(gothic_war/GothicWar.otf);
 }
 
 #index a{
@@ -26,4 +26,50 @@ src: url(gothic_war/Gothic War.otf);
 	font-size: 50px;
 }
 
-#empresa
+#empresa header h1 {
+    font-family: 'empresa';
+    color: white;
+    margin: 10px 10px 10px 10px;
+    margin-top: 30px;
+    font-size: 110px;
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: rgb(29, 21, 6);
+    text-shadow: 0 0 10px #000000;
+}
+#empresa body{
+	background-color: black;
+}
+#empresa h2, h4 {
+    font-family: 'Georgia';
+    margin-top: 15px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: rgb(29, 21, 6);
+    text-shadow: 0 0 3px #000000;
+}
+#empresa h4 {
+    margin-bottom: -16px;
+}
+#empresa h2 {
+    margin-bottom: -10px;
+}
+#empresa p {
+    font-family: 'Georgia';
+    font-size: 20px;
+    margin-top: 10px;
+}
+#empresa main {
+    text-align: center;
+    padding-left: 186px;
+}
+#empresa main img {
+    border-radius: 5px;
+}
+#empresa footer img {
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 20px auto;
+}
